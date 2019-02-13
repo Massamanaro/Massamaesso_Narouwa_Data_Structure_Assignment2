@@ -1,3 +1,5 @@
+#Name: Massamaesso Narouwa
+ #Cohort: CS Cohort 1
 
 class CardsStacks:
     #  Implementation two stacks in a list

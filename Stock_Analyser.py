@@ -1,3 +1,6 @@
+ #Name: Massamaesso Narouwa
+ #Cohort: CS Cohort 1
+
 d = int
 # We want to implent a queue for stock_analyser using a linked list
 class Node: # Node definition

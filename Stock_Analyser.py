@@ -45,11 +45,6 @@ class Queue:  #Queue class definition
 
 
 
-node1 = Node(26)
-node2 = Node(23)
-node3 = Node(52)
-print(node1.getdata())
-print(node2.getdata())
 
 shares = Queue()# Shares object will stock shares  that have been bought.
 

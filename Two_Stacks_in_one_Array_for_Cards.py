@@ -58,5 +58,8 @@ class CardsStacks:
                 print("Stack Underflow ")
                 exit(1)
 
+        def peek(self):
+            return self.top1
+            return  self.top2
 
 
